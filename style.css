@@ -1,0 +1,19 @@
+body {
+background-color: antiquewhite;
+}
+
+h1 {
+color: blueviolet;
+}
+
+h2 {
+color:blue;
+}
+
+h1 {
+    text-shadow: 5px 4px burlywood;
+}
+
+h1{
+word-spacing: 5px 4px;
+}
